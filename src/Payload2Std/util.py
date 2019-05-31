@@ -7,7 +7,7 @@ UTIL_VERSION = 100
 
 PLUGIN_NAME = "Payload2Std"
 PLUGIN_VERSION = [0,0,1]
-IS_DEBUG = False
+IS_DEBUG = True
 
 
 inf = idaapi.get_inf_structure()
